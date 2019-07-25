@@ -1,0 +1,16 @@
+body {
+    background: url('../images/rojo.jpg');
+    background-attachment: fixed; /* si yo hago scroll en la pagina siempre queda así el fonduli*/
+}
+
+#logo {
+    background: brown;
+}
+
+#menu ul li:hover {
+    background: brown;
+}
+
+.btn-more {
+    background: brown;
+}

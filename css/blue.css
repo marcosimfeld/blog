@@ -1,0 +1,16 @@
+body {
+    background: url('../images/cielo.jpg');
+    background-attachment: fixed; /* si yo hago scroll en la pagina siempre queda así el fonduli*/
+}
+
+#logo {
+    background: rgb(44, 111, 235);
+}
+
+#menu ul li:hover {
+    background: rgb(44, 111, 235);
+}
+
+.btn-more {
+    background: rgb(44, 111, 235);
+}
